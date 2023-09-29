@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm napster</h1>
 <h3 align="center">A passionate full-stack developer from US</h3>
 
-- 🔭 I’m currently working on **Moonwalk**
-
 - 🌱 I’m currently learning **Svelte**
 
 - 💬 Ask me about **Reactjs, ReactNative, Nodejs**
