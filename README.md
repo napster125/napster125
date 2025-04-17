@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Einar</h1>
+<h1 align="center">Hi 👋, I'm Nicholas</h1>
 <h3 align="center">A passionate full-stack developer from US</h3>
 
 - 🌱 I’m currently learning **Svelte**
